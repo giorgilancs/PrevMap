@@ -14,6 +14,5 @@ LazyData: true
 License: GPL (>= 2)
 Suggests: geoR, R.rsp, INLA, knitr, rmarkdown
 Additional_repositories: https://inla.r-inla-download.org/R/testing/
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-
